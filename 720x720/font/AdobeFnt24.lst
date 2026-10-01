@@ -1,0 +1,24 @@
+%!Adobe-FontList 1.24
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Programs\Anbernic\Thems\MustardOS-Flat\720x720\Font\default.bin
+FileModTime:1765696496
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Programs\Anbernic\Thems\MustardOS-Flat\720x720\Font\footer\default.bin
+FileModTime:1765696496
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Programs\Anbernic\Thems\MustardOS-Flat\720x720\Font\header\default.bin
+FileModTime:1765696496
+%EndFont
+
